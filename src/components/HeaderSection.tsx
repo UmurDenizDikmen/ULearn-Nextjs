@@ -8,7 +8,7 @@ export default function HeaderSection() {
             Take great online courses from any where in the word
           </p>
         </div>
-        <div className="bg-black shrink-0 md:mt-96 lg:mt-4">
+        <div className="bg-black shrink-0 mt-9 md:mt-0 lg:mt-4 ">
           <form className="m-20 items-center">
             <div className="mb-4">
               <h1 className="text-white text-4xl text-left font-bold">
