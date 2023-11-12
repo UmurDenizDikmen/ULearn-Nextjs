@@ -53,7 +53,7 @@ const projects: MemberInfoSectionProps[] = [
 export default function MemberInfoSection() {
   return (
     <div
-      className="flex lg:flex-col flex-col ml-16 mb-2  pb-1 mt-96 pt-96 lg:pt-5   lg:mt-5 md:mt-36 lg:p-32 
+      className="flex lg:flex-col flex-col ml-16 mb-2  pb-1 mt-96 pt-96 lg:pt-5   lg:mt-10 md:mt-44 lg:p-32 
       "
     >
       <h1 className="text-left font-bold text-4xl mb-0">MEMBERSHIP</h1>

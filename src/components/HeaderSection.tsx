@@ -1,15 +1,15 @@
 export default function HeaderSection() {
   return (
     <div className="relative h-screen w-screen bg-[url('/images/Group.png')] bg-no-repeat bg-center bg-fixed bg-cover">
-      <div className="flex flex-col lg:flex-row xl:gap-80 lg:gap-4 text-center absolute  lg:text-left mt-16 lg:p-10 gap-96">
+      <div className="flex flex-col lg:flex-row xl:gap-80 lg:gap-4 text-center absolute  lg:text-left mt-30 lg:p-10 gap-96">
         <div className="flex flex-row gap-6  xl:w-1/3  lg:ml-36 lg:w-2/3">
-          <hr className=" bg-yellow-700 w-0.5 hidden md:block mt-1 lg:h-full  xl:h-64" />
+          <hr className=" bg-yellow-700 w-0.5 hidden xl:block mt-1 lg:h-full  xl:h-64" />
           <p className="text-7xl text-white font-bold mr-3 shrink">
             Take great online courses from any where in the word
           </p>
         </div>
-        <div className="bg-black shrink-0 mt-9 md:mt-0 lg:mt-4 ">
-          <form className="m-20 items-center">
+        <div className="bg-black shrink-0  lg:mb-96 md:mb-0 mb-2">
+          <form className="xl:m-20 items-center lg:m-12 m-16">
             <div className="mb-4">
               <h1 className="text-white text-4xl text-left font-bold">
                 BECOME A MEMBER
